@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/suryavmds" target="blank"><img align="center" src="https://lh3.googleusercontent.com/proxy/s3fsuhmGNVFFMvwQqLoHhtZz3WCic9ygN8hmnPdeLmm9zsBgoUl1-eBaA53QcwXmW0XzaPmrcDAl2kQFc_jQaf7QEAqD6yQVNDY4b8eSoZeuBD8LV45TSsgYYUVBxnWhADVPjU0go8PIepbwHlD4YAWI2ySI" alt="suryavmds" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/codestormxdev" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="codestormxdev" height="30" width="40" /></a>
+<a href="https://instagram.com/suryavmds" target="blank"><img align="center" src="https://lh3.googleusercontent.com/proxy/s3fsuhmGNVFFMvwQqLoHhtZz3WCic9ygN8hmnPdeLmm9zsBgoUl1-eBaA53QcwXmW0XzaPmrcDAl2kQFc_jQaf7QEAqD6yQVNDY4b8eSoZeuBD8LV45TSsgYYUVBxnWhADVPjU0go8PIepbwHlD4YAWI2ySI" alt="Instagram" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/codestormxdev" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="Youtube" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
