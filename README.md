@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Surya Prakash V</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on a project **CyberGladium**
+- 🔭 co-founder of **CyberGladium** and *Codestormx*
 
-- 🌱 I’m currently learning **Frontend Frameworks and DevOPS**
+- 🌱 I’m currently learning **Frontend Frameworks**
 
 - 📫 How to reach me **surya@codestormx.in**
 
