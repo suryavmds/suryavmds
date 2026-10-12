@@ -1,0 +1,30 @@
+name: Refresh profile
+
+on:
+  schedule:
+    - cron: "17 5 * * 1" # Mondays, 05:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Redraw the pictures from live data
+        run: python3 scripts/build.py
+        env:
+          # Add a PROFILE_TOKEN secret (a personal token with repo scope) to let the
+          # timeline count private repos. Without it, only the public numbers refresh.
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+      - name: Commit if anything changed
+        run: |
+          git add assets data
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Refresh profile data"
+            git push
+          fi

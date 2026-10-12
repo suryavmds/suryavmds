@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 306" width="840" height="306" role="img" aria-label="Stacks. AI and messaging: Claude, OpenAI, LangChain, WhatsApp Cloud API. Web: Next.js, Node.js, MongoDB, Redis. Native: SwiftUI, Kotlin (stopped), Flutter (stopped), .NET MAUI (stopped).">
+<title>Stacks. AI and messaging: Claude, OpenAI, LangChain, WhatsApp Cloud API. Web: Next.js, Node.js, MongoDB, Redis. Native: SwiftUI, Kotlin (stopped), Flutter (stopped), .NET MAUI (stopped).</title>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}.ink{fill:#1d1d1f}.ink2{fill:#5f5f67}.ink3{fill:#777780}.blue{fill:#1f6feb}.orange{fill:#b84a20}@keyframes pulse{0%{transform:scale(1);opacity:.6}75%,100%{transform:scale(2.8);opacity:0}}.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.6s ease-out infinite}@keyframes scroll{to{transform:translateX(-96px)}}.beat{animation:scroll 5s linear infinite}@keyframes pick{0%{opacity:1}33.3%,100%{opacity:0}}.pick{animation:pick 12s step-end infinite}@keyframes type{0%,60%,100%{opacity:.35}30%{opacity:1}}.type{animation:type 1.4s ease-in-out infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x=".5" y=".5" width="839" height="305" rx="14" fill="#f5f5f7" stroke="#d0d0d6"/>
+<text x="24" y="40" font-size="17" font-weight="650" class="ink">Stacks</text>
+<text x="24" y="61" font-size="12.5" font-weight="400" class="ink2">3 stacks. 9 things running, 3 stopped but still installed.</text>
+<rect x="24" y="82" width="256" height="200" rx="12" fill="#ffffff" stroke="#dcdce1"/>
+<rect x="38" y="96" width="36" height="36" rx="9.0" fill="#dde8fc"/><g transform="translate(44.0 102.0)"><g fill="none" stroke="#1f6feb" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.500 20.500 7.700 12 11.900 3.500 7.700z" fill="#1f6feb"/><path d="M3.500 12 12 16.200 20.500 12M3.500 16.300 12 20.500l8.500-4.200"/></g></g>
+<text x="86" y="111" font-size="14.5" font-weight="650" class="ink">AI and messaging</text>
+<text x="86" y="128" font-size="12" font-weight="400" class="ink2">4 of 4 running</text>
+<circle class="pulse" style="animation-delay:0.0s" cx="46" cy="160" r="3.6" fill="#178f49"/>
+<circle cx="46" cy="160" r="3.6" fill="#178f49"/>
+<text x="60" y="164" font-size="13" font-weight="600" class="ink">Claude</text>
+<text x="264" y="164" font-size="11.5" font-weight="400" class="ink3" text-anchor="end">Anthropic SDK</text>
+<circle class="pulse" style="animation-delay:0.3s" cx="46" cy="190" r="3.6" fill="#178f49"/>
+<circle cx="46" cy="190" r="3.6" fill="#178f49"/>
+<text x="60" y="194" font-size="13" font-weight="600" class="ink">OpenAI</text>
+<text x="264" y="194" font-size="11.5" font-weight="400" class="ink3" text-anchor="end">API</text>
+<circle class="pulse" style="animation-delay:0.7s" cx="46" cy="220" r="3.6" fill="#178f49"/>
+<circle cx="46" cy="220" r="3.6" fill="#178f49"/>
+<text x="60" y="224" font-size="13" font-weight="600" class="ink">LangChain</text>
+<text x="264" y="224" font-size="11.5" font-weight="400" class="ink3" text-anchor="end">agents and tools</text>
+<circle class="pulse" style="animation-delay:1.0s" cx="46" cy="250" r="3.6" fill="#178f49"/>
+<circle cx="46" cy="250" r="3.6" fill="#178f49"/>
+<text x="60" y="254" font-size="13" font-weight="600" class="ink">WhatsApp Cloud API</text>
+<text x="264" y="254" font-size="11.5" font-weight="400" class="ink3" text-anchor="end">Meta</text>
+<rect x="292" y="82" width="256" height="200" rx="12" fill="#ffffff" stroke="#dcdce1"/>
+<rect x="306" y="96" width="36" height="36" rx="9.0" fill="#dde8fc"/><g transform="translate(312.0 102.0)"><g fill="none" stroke="#1f6feb" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.500 20.500 7.700 12 11.900 3.500 7.700z" fill="#1f6feb"/><path d="M3.500 12 12 16.200 20.500 12M3.500 16.300 12 20.500l8.500-4.200"/></g></g>
+<text x="354" y="111" font-size="14.5" font-weight="650" class="ink">Web</text>
+<text x="354" y="128" font-size="12" font-weight="400" class="ink2">4 of 4 running</text>
+<circle class="pulse" style="animation-delay:1.4s" cx="314" cy="160" r="3.6" fill="#178f49"/>
+<circle cx="314" cy="160" r="3.6" fill="#178f49"/>
+<text x="328" y="164" font-size="13" font-weight="600" class="ink">Next.js</text>
+<text x="532" y="164" font-size="11.5" font-weight="400" class="ink3" text-anchor="end">React, Ant Design</text>
+<circle class="pulse" style="animation-delay:1.8s" cx="314" cy="190" r="3.6" fill="#178f49"/>
+<circle cx="314" cy="190" r="3.6" fill="#178f49"/>
+<text x="328" y="194" font-size="13" font-weight="600" class="ink">Node.js</text>
+<text x="532" y="194" font-size="11.5" font-weight="400" class="ink3" text-anchor="end">Express, Zod</text>
+<circle class="pulse" style="animation-delay:2.1s" cx="314" cy="220" r="3.6" fill="#178f49"/>
+<circle cx="314" cy="220" r="3.6" fill="#178f49"/>
+<text x="328" y="224" font-size="13" font-weight="600" class="ink">MongoDB</text>
+<text x="532" y="224" font-size="11.5" font-weight="400" class="ink3" text-anchor="end">Mongoose</text>
+<circle class="pulse" style="animation-delay:2.4s" cx="314" cy="250" r="3.6" fill="#178f49"/>
+<circle cx="314" cy="250" r="3.6" fill="#178f49"/>
+<text x="328" y="254" font-size="13" font-weight="600" class="ink">Redis</text>
+<text x="532" y="254" font-size="11.5" font-weight="400" class="ink3" text-anchor="end">BullMQ queues</text>
+<rect x="560" y="82" width="256" height="200" rx="12" fill="#ffffff" stroke="#dcdce1"/>
+<rect x="574" y="96" width="36" height="36" rx="9.0" fill="#dde8fc"/><g transform="translate(580.0 102.0)"><g fill="none" stroke="#1f6feb" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.500 20.500 7.700 12 11.900 3.500 7.700z" fill="#1f6feb"/><path d="M3.500 12 12 16.200 20.500 12M3.500 16.300 12 20.500l8.500-4.200"/></g></g>
+<text x="622" y="111" font-size="14.5" font-weight="650" class="ink">Native</text>
+<text x="622" y="128" font-size="12" font-weight="400" class="ink2">1 of 4 running</text>
+<circle class="pulse" style="animation-delay:2.8s" cx="582" cy="160" r="3.6" fill="#178f49"/>
+<circle cx="582" cy="160" r="3.6" fill="#178f49"/>
+<text x="596" y="164" font-size="13" font-weight="600" class="ink">SwiftUI</text>
+<text x="800" y="164" font-size="11.5" font-weight="400" class="ink3" text-anchor="end">Strays</text>
+<circle cx="582" cy="190" r="3.6" fill="#a5a5ad"/>
+<text x="596" y="194" font-size="13" font-weight="600" class="ink2">Kotlin</text>
+<text x="800" y="194" font-size="11.5" font-weight="400" class="ink3" text-anchor="end">stopped 2025</text>
+<circle cx="582" cy="220" r="3.6" fill="#a5a5ad"/>
+<text x="596" y="224" font-size="13" font-weight="600" class="ink2">Flutter</text>
+<text x="800" y="224" font-size="11.5" font-weight="400" class="ink3" text-anchor="end">stopped 2025</text>
+<circle cx="582" cy="250" r="3.6" fill="#a5a5ad"/>
+<text x="596" y="254" font-size="13" font-weight="600" class="ink2">.NET MAUI</text>
+<text x="800" y="254" font-size="11.5" font-weight="400" class="ink3" text-anchor="end">stopped 2025</text>
+</svg>

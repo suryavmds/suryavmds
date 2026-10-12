@@ -1,0 +1,163 @@
+{
+  "login": "suryavmds",
+  "name": "Surya Prakash",
+  "tagline": "Founder, Sendiee · Partner, CodeStormX · Canada",
+  "running": [
+    {
+      "icon": "chat",
+      "title": "Sendiee",
+      "sub": "Founder · since 2022",
+      "pills": [[":443", "port"], ["Meta Business Partner", "tag"]],
+      "lines": ["AI conversations on WhatsApp,", "Instagram and Messenger."],
+      "since": "2022-07-01"
+    },
+    {
+      "icon": "paw",
+      "title": "Strays",
+      "sub": "macOS menu bar app · Swift",
+      "pills": [["{strays_tag}", "port"], ["open source", "tag"], ["MIT", "tag"]],
+      "lines": ["Finds everything still running in the", "background on your Mac. Stops it too."],
+      "since": "{strays_released}"
+    }
+  ],
+  "orphan": {
+    "title": "calculator × 4",
+    "sub": "C#, Kotlin, Java · last seen 2025",
+    "pill": "Orphaned from college",
+    "note": "No listening port"
+  },
+  "sidebar": [
+    ["item", "grid", "All", "3", true],
+    ["item", "ports", "Listening Ports", "1", false],
+    ["label", "Projects"],
+    ["item", "folder", "sendiee", "1", false],
+    ["item", "folder", "strays", "1", false],
+    ["label", "Agents"],
+    ["item", "cap", "College", "!1", false],
+    ["label", "Everything else"],
+    ["item", "layers", "Stacks", "3", false],
+    ["item", "bars", "Timeline", "", false]
+  ],
+  "lanes": [
+    {"name": "Kotlin", "languages": ["Kotlin"]},
+    {"name": "JavaScript", "languages": ["JavaScript", "TypeScript", "EJS"]},
+    {"name": "HTML & CSS", "languages": ["HTML", "CSS", "SCSS"]},
+    {"name": "Flutter", "languages": ["Dart", "C++"]},
+    {"name": "C#", "languages": ["C#"]},
+    {"name": "Swift", "languages": ["Swift"]}
+  ],
+  "stacks": [
+    {
+      "name": "AI and messaging",
+      "items": [
+        ["Claude", "Anthropic SDK", true],
+        ["OpenAI", "API", true],
+        ["LangChain", "agents and tools", true],
+        ["WhatsApp Cloud API", "Meta", true]
+      ]
+    },
+    {
+      "name": "Web",
+      "items": [
+        ["Next.js", "React, Ant Design", true],
+        ["Node.js", "Express, Zod", true],
+        ["MongoDB", "Mongoose", true],
+        ["Redis", "BullMQ queues", true]
+      ]
+    },
+    {
+      "name": "Native",
+      "items": [
+        ["SwiftUI", "Strays", true],
+        ["Kotlin", "stopped 2025", false],
+        ["Flutter", "stopped 2025", false],
+        [".NET MAUI", "stopped 2025", false]
+      ]
+    }
+  ],
+  "buttons": [
+    ["email", "Email"],
+    ["linkedin", "LinkedIn"],
+    ["sendiee", "sendiee.com"],
+    ["dribbble", "Dribbble"],
+    ["instagram", "Instagram"]
+  ],
+  "live": {
+    "as_of": "2026-10-12",
+    "created": "2016-09-04",
+    "contributions": 970,
+    "weeks": [42, 10, 1, 8, 11, 12, 6, 21, 15, 9, 9, 12, 12, 9, 7, 4, 2, 5, 5, 15, 16, 27, 14, 24, 12, 20, 14, 20, 22, 14, 12, 25, 16, 31, 25, 28, 24, 19, 58, 48, 5, 27, 19, 3, 6, 8, 34, 19, 22, 13, 75, 33, 22],
+    "strays_tag": "v0.1.0",
+    "strays_released": "2026-10-12",
+    "repos": [
+      ["Kotlin", "2020-09-05", "2020-09-05"],
+      ["Kotlin", "2020-11-06", "2020-11-06"],
+      ["Kotlin", "2020-11-27", "2020-11-27"],
+      ["JavaScript", "2020-12-30", "2021-01-31"],
+      ["Kotlin", "2021-02-02", "2021-02-02"],
+      ["JavaScript", "2021-02-13", "2021-03-10"],
+      ["HTML & CSS", "2021-04-19", "2021-04-20"],
+      ["JavaScript", "2021-06-03", "2021-06-03"],
+      ["HTML & CSS", "2021-06-04", "2021-06-04"],
+      ["JavaScript", "2021-07-23", "2021-08-22"],
+      ["HTML & CSS", "2022-02-20", "2022-02-20"],
+      ["JavaScript", "2022-04-24", "2022-04-24"],
+      ["JavaScript", "2022-06-24", "2022-06-24"],
+      ["HTML & CSS", "2022-06-30", "2022-06-30"],
+      ["HTML & CSS", "2022-07-01", "2022-07-01"],
+      ["HTML & CSS", "2022-07-01", "2022-07-01"],
+      ["JavaScript", "2022-07-01", "2022-07-01"],
+      ["JavaScript", "2022-07-01", "2022-07-01"],
+      ["JavaScript", "2022-07-01", "2022-07-01"],
+      ["JavaScript", "2022-07-17", "2022-07-17"],
+      ["JavaScript", "2022-07-20", "2022-08-15"],
+      ["HTML & CSS", "2022-07-21", "2022-07-21"],
+      ["HTML & CSS", "2022-07-21", "2022-07-21"],
+      ["HTML & CSS", "2022-07-21", "2022-07-21"],
+      ["JavaScript", "2022-07-21", "2022-07-21"],
+      ["JavaScript", "2023-02-18", "2023-02-18"],
+      ["HTML & CSS", "2023-03-08", "2023-04-08"],
+      ["HTML & CSS", "2023-03-09", "2023-03-09"],
+      ["Flutter", "2023-03-14", "2023-03-14"],
+      ["Flutter", "2023-03-15", "2023-03-15"],
+      ["JavaScript", "2023-03-26", "2023-06-17"],
+      ["HTML & CSS", "2023-09-12", "2023-09-22"],
+      ["HTML & CSS", "2023-09-25", "2023-09-25"],
+      ["HTML & CSS", "2023-10-18", "2025-12-04"],
+      ["JavaScript", "2023-10-21", "2023-11-19"],
+      ["HTML & CSS", "2024-02-21", "2024-02-21"],
+      ["JavaScript", "2024-03-08", "2025-04-14"],
+      ["HTML & CSS", "2024-07-02", "2024-07-03"],
+      ["JavaScript", "2024-07-21", "2026-05-06"],
+      ["JavaScript", "2024-08-09", "2026-05-21"],
+      ["C#", "2024-09-28", "2024-09-28"],
+      ["C#", "2024-10-01", "2024-10-01"],
+      ["C#", "2024-10-06", "2024-10-06"],
+      ["C#", "2024-10-18", "2024-10-19"],
+      ["C#", "2024-11-19", "2024-11-19"],
+      ["JavaScript", "2024-12-01", "2024-12-01"],
+      ["HTML & CSS", "2024-12-02", "2024-12-12"],
+      ["C#", "2024-12-11", "2024-12-11"],
+      ["C#", "2024-12-12", "2024-12-12"],
+      ["JavaScript", "2025-01-17", "2025-01-17"],
+      ["Kotlin", "2025-01-30", "2025-01-31"],
+      ["JavaScript", "2025-02-06", "2026-03-04"],
+      ["Kotlin", "2025-02-11", "2025-02-11"],
+      ["Kotlin", "2025-02-19", "2025-02-19"],
+      ["C#", "2025-03-26", "2025-04-16"],
+      ["JavaScript", "2025-04-08", "2025-04-20"],
+      ["Flutter", "2025-04-22", "2025-04-23"],
+      ["JavaScript", "2025-05-22", "2025-06-17"],
+      ["JavaScript", "2025-05-26", "2025-06-21"],
+      ["JavaScript", "2025-06-22", "2026-10-08"],
+      ["JavaScript", "2025-07-20", "2026-07-06"],
+      ["JavaScript", "2025-09-27", "2026-10-08"],
+      ["HTML & CSS", "2025-11-26", "2025-11-26"],
+      ["HTML & CSS", "2025-12-05", "2025-12-05"],
+      ["JavaScript", "2026-01-01", "2026-01-05"],
+      ["JavaScript", "2026-02-23", "2026-03-28"],
+      ["JavaScript", "2026-03-04", "2026-09-07"],
+      ["Swift", "2026-10-12", "2026-10-12"]
+    ]
+  }
+}
